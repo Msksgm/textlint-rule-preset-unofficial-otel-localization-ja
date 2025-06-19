@@ -24,7 +24,16 @@ In your local opentelemetry.io directory, run the following command to download 
 wget https://raw.githubusercontent.com/Msksgm/textlint-rule-preset-unofficial-otel-localization-ja/refs/heads/main/otel-localiztion-ja.yml -O otel-localiztion-ja.yml
 ```
 
-### 3. Update .textlintrc.yml
+### 3. install `textlint-rule-prh` locally
+
+If you want to run in locally, you should install `textlint-rule-prh`.
+Please do not commit [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io) because it is an unofficial aproach.
+
+```bash
+npm install -D textlint-rule-prh
+```
+
+### 4. Update .textlintrc.yml
 
 Add the following configuration to your `.textlintrc.yml` file:
 
