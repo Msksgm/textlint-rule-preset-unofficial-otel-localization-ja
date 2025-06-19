@@ -2,9 +2,9 @@
 
 ## About
 
-It is **unofficial** otel localization ja textlint rule preset directory.
-It is created to make my personal Japanese translation activity more efficient.
-I hope that a similar setting will be included in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io) in the future.
+This is an **unofficial** textlint rule preset for OpenTelemetry Japanese localization.
+It was created to improve the efficiency of my Japanese translation activity.
+I hope that similar settings will be included in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io) in the future.
 
 ## How to Use
 
