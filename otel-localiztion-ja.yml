@@ -26,3 +26,6 @@ rules:
   - expected: エグザンプラー
     patterns:
       - 例示値
+  - expected: プログラム
+    patterns:
+      - プログラマティック
